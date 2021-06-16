@@ -1,0 +1,1 @@
+select * from emias_cluster.block_assigned_roles

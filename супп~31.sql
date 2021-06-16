@@ -1,0 +1,1 @@
+select * from notification_event where message like ('%UEremina%') --or message like ('%SveErmakova%')
